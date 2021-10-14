@@ -1,1 +1,1 @@
-# estatistica-aplicada
+# Regressão Linear Múltipla
